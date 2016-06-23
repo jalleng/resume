@@ -32,8 +32,7 @@ B.S. Manufacturing Engineering Technology
 **PROJECTS**
 
  - [mytravelmap.herokuapp.com](https://mytravelmap.herokuapp.com) - 2015 A travel log for past and future
-   adventures.  Along with pair programming the main structure of our
-   application, I utilized the cloudinary API  to integrate cloud
+   adventures.  I utilized the cloudinary API  to integrate cloud
    storage of photos.
 
 **EXPERIENCE**
