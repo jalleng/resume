@@ -6,7 +6,7 @@
 
 Seattle, WA </br>
 541-914-4015 | jallengerber@gmail.com </br>
-github.com/jalleng | linkedin.com/in/jeffreygerber
+[github.com/jalleng](github.com/jalleng) | [linkedin.com/in/jeffreygerber](linkedin.com/in/jeffreygerber)
 
 **PROFILE**
 
