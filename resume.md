@@ -6,7 +6,7 @@
 
 Seattle, WA </br>
 541-914-4015 | jallengerber@gmail.com </br>
-[github.com/jalleng](github.com/jalleng) | [linkedin.com/in/jeffreygerber](linkedin.com/in/jeffreygerber)
+[github.com/jalleng](https://github.com/jalleng) | [linkedin.com/in/jeffreygerber](https://linkedin.com/in/jeffreygerber)
 
 **PROFILE**
 
@@ -34,7 +34,7 @@ B.S. Manufacturing Engineering Technology
 
 **PROJECTS**
 
- - [mytravelmap.herokuapp.com](mytravelmap.herokuapp.com) - 2015 A travel log for past and future
+ - [mytravelmap.herokuapp.com](https://mytravelmap.herokuapp.com) - 2015 A travel log for past and future
    adventures.  Along with pair programming the main structure of our
    application, I utilized the cloudinary API  to integrate cloud
    storage of photos.
