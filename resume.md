@@ -14,15 +14,12 @@ I am a software developer whose main focus is full-stack JavaScript development.
 
 **TECHNICAL SKILLS**
 
-HTML5
-CSS3
-JavaScript
-jQuery
-Node.js
-Angular.js
-Express.js
-MongoDB and MySQL
-Mocha / Chai
+Client - HTML5, CSS3, jQuery, Angular.js, Handlebars.js, lodash </br>
+Server - Node.js, Express.js </br>
+Database - MongoDB and MySQL </br>
+Testing - Mocha & Chai, Jasmine & Karma </br>
+DevOps - Heroku, TDD </br>
+Misc - Gulp, Github, Unix/linux
 Lodash
 JSON
 GitHub
