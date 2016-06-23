@@ -23,10 +23,10 @@ Misc - Gulp, Github, Unix/linux, JSON
 
 **EDUCATION**
 
- - Code Fellows- Seattle, WA, 2015
+ - Code Fellows- Seattle, WA, 2015</br>
 Certificate, Full-Stack JavaScript Development
 
- - Oregon Institute of Technology- Klamath Falls, OR, 1995-2000
+ - Oregon Institute of Technology- Klamath Falls, OR, 1995-2000</br>
 B.S. Manufacturing Engineering Technology
 
 **PROJECTS**
