@@ -17,12 +17,9 @@ I am a software developer whose main focus is full-stack JavaScript development.
 Client - HTML5, CSS3, jQuery, Angular.js, Handlebars.js, lodash </br>
 Server - Node.js, Express.js </br>
 Database - MongoDB and MySQL </br>
-Testing - Mocha & Chai, Jasmine & Karma </br>
+Testing - Mocha/Chai, Jasmine/Karma </br>
 DevOps - Heroku, TDD </br>
-Misc - Gulp, Github, Unix/linux
-Lodash
-JSON
-GitHub
+Misc - Gulp, Github, Unix/linux,JSON,GitHub
 
 **EDUCATION**
 
