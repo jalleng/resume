@@ -19,7 +19,7 @@ Server - Node.js, Express.js </br>
 Database - MongoDB and MySQL </br>
 Testing - Mocha/Chai, Jasmine/Karma </br>
 DevOps - Heroku, TDD </br>
-Misc - Gulp, Github, Unix/linux,JSON,GitHub
+Misc - Gulp, Github, Unix/linux, JSON
 
 **EDUCATION**
 
