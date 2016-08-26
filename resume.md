@@ -32,8 +32,12 @@ B.S. Manufacturing Engineering Technology
 **PROJECTS**
 
  - [mytravelmap.herokuapp.com](https://mytravelmap.herokuapp.com) - 2015 A travel log for past and future
-   adventures.  I utilized the cloudinary API  to integrate cloud
-   storage of photos.
+   adventures. </br>
+   -Utilized Angular.js and an Express.js/Node.js server to access the Cloudinary api for the cloud storage of photos.
+   -Utilized MongoDb to store user data.
+   -Implemented authentication and authorization to protect user data.
+   -Employed the Google Maps api for user destination information.
+
 
 **EXPERIENCE**
 
