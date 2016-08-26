@@ -10,7 +10,7 @@ Seattle, WA </br>
 
 **PROFILE**
 
-I am a software developer whose main focus is full-stack JavaScript.  In seven years of running my own business I never lost a customer.  My goal is to integrate my past management, operations, and logistics experience with my knowledge of software development.
+I am a software developer whose main focus is full-stack JavaScript.  In eight years of running my own business I never lost a customer.  My goal is to integrate my past management, operations, and logistics experience with my knowledge of software development.
 
 **TECHNICAL SKILLS**
 
