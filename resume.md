@@ -40,7 +40,7 @@ B.S. Manufacturing Engineering Technology
  - Lead Teaching Assistant Full-Stack JavaScript- Code Fellows- Seattle, WA, 2015-Current</br>
 I provide assistance to the instructor and manage the other TA’s on our team.
 
- - Owner- JGerberLLC- Seattle, WA, 2008-Current</br>
+ - Owner- J Gerber LLC- Seattle, WA, 2008-Current</br>
 A housekeeping company.  I manage all operations from scheduling and billing to allocation of services.  My primary focus is on customer service as a product.
 
  - Employee Manager- Fern Creek- Seattle, WA, 2004-2008</br>
