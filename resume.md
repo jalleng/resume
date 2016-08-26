@@ -10,7 +10,7 @@ Seattle, WA </br>
 
 **PROFILE**
 
-I am a software developer whose main focus is full-stack JavaScript development.  In seven years of running my own business I never lost a customer.  My goal is to integrate my past management, operations, and logistics experience with my knowledge of software development.
+I am a software developer whose main focus is full-stack JavaScript.  In seven years of running my own business I never lost a customer.  My goal is to integrate my past management, operations, and logistics experience with my knowledge of software development.
 
 **TECHNICAL SKILLS**
 
@@ -37,7 +37,7 @@ B.S. Manufacturing Engineering Technology
 
 **EXPERIENCE**
 
- - Lead Teaching Assistant- Code Fellows- Seattle, WA, 2015-Current</br>
+ - Lead Teaching Assistant Full-Stack JavaScript- Code Fellows- Seattle, WA, 2015-Current</br>
 I provide assistance to the instructor and manage the other TA’s on our team.
 
  - Owner- JGerberLLC- Seattle, WA, 2008-Current</br>
