@@ -27,7 +27,7 @@ Misc - Gulp, Github, Unix/linux, JSON
   -Certificate, Full-Stack JavaScript Development
 
  - Oregon Institute of Technology- Klamath Falls, OR, 1995-2000</br>
-  -B.S. Manufacturing Engineering Technology
+  -B.S., Manufacturing Engineering Technology
 
 **PROJECTS**
 
