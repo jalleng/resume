@@ -45,8 +45,8 @@ Misc - Gulp, Github, Unix/linux, JSON
 
 
  - Owner- J Gerber LLC- Seattle, WA, 2008-Current</br>
-  * Manage all operations from scheduling and billing to allocation of services.  
-  * Continue to focus primarily on customer service as a product.  
+  -Manage all operations from scheduling and billing to allocation of services.  
+  -Continue to focus primarily on customer service as a product.  
 
 
  - Lead Teaching Assistant Full-Stack JavaScript- Code Fellows- Seattle, WA, 2015-Current</br>
