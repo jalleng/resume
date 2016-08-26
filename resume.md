@@ -45,8 +45,8 @@ Misc - Gulp, Github, Unix/linux, JSON
 
 
  - Owner- J Gerber LLC- Seattle, WA, 2008-Current</br>
-  -Manage all operations from scheduling and billing to allocation of services.  
-  -Continue to focus primarily on customer service as a product.  
+  * Manage all operations from scheduling and billing to allocation of services.  
+  * Continue to focus primarily on customer service as a product.  
 
 
  - Lead Teaching Assistant Full-Stack JavaScript- Code Fellows- Seattle, WA, 2015-Current</br>
@@ -59,7 +59,7 @@ Misc - Gulp, Github, Unix/linux, JSON
   -Managed inventory.  
   -Provided support to customers to ensure they were satisfied with our services.
 
- - Team Lead- Rosen Products LLC- Eugene, OR 2000-2003</br>
+ - Team Lead- Rosen Products LLC- Eugene, OR, 2000-2003</br>
   -Managed 12-18 employees.  
   -Led the teams providing all products to Mercedes, Toyota, and LandRover.  
   -Managed the logistics of production from receiving orders to product shipment.  
