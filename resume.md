@@ -47,10 +47,10 @@ Misc - Gulp, Github, Unix/linux, JSON
 
  
  - Freelance Developer- Content Harmony- Seattle, WA, 2016</br>
-  -Utilized NW.js to build a desktop application for a freelance customer.
-  -Utilized HTML, CSS, and Bootstrap to create an interface to enter data and select files to upload.
-  -Employed Mammoth.js to convert Docx files to HTML files.
-  -Utilized JQuery and Node.js to compile data and HTML files into templates that are output as emails.
+  -Utilized NW.js to build a desktop application for a freelance customer. 
+  -Utilized HTML, CSS, and Bootstrap to create an interface to enter data and select files to upload. 
+  -Employed Mammoth.js to convert Docx files to HTML files. 
+  -Utilized JQuery and Node.js to compile data and HTML files into templates that are output as emails. 
 
 
  - Owner- J Gerber LLC- Seattle, WA, 2008-Current</br>
