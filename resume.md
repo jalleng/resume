@@ -41,6 +41,11 @@ Misc - Gulp, Github, Unix/linux, JSON
 
 **EXPERIENCE**
 
+- Lead Teaching Assistant Full-Stack JavaScript- Code Fellows- Seattle, WA, 2015-Current</br>
+  -Provided assistance and logistical support to the lead instructor.  
+  -Provided instruction and feedback to students.
+
+
  - Connector Developer- Azuqua- Seattle, WA, 2016-2017</br>
   -Utilized JavaScript and Lodash, along with a proprietary abstraction layer to implement a comprehensive RESTful integration of multiple cloud services into our platform.  
   -Leveraged my extensive knowledge of our platform and my comprehensive understanding of various cloud api’s to identify and correct bugs in legacy code. 
@@ -58,15 +63,11 @@ Misc - Gulp, Github, Unix/linux, JSON
   -Continue to focus primarily on customer service as a product.  
 
 
- - Lead Teaching Assistant Full-Stack JavaScript- Code Fellows- Seattle, WA, 2015-Current</br>
-  -Provided assistance and logistical support to the lead instructor.  
-  -Provided instruction and feedback to students.
-
-
  - Employee Manager- Fern Creek- Seattle, WA, 2004-2008</br>
   -Supervised 6-8 employees.  
   -Managed inventory.  
   -Provided support to customers to ensure they were satisfied with our services.
+
 
  - Team Lead- Rosen Products LLC- Eugene, OR, 2000-2003</br>
   -Managed 12-18 employees.  
