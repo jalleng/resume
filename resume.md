@@ -41,6 +41,18 @@ Misc - Gulp, Github, Unix/linux, JSON
 
 **EXPERIENCE**
 
+ - Connector Developer- Azuqua- Seattle, WA, 2016-2017</br>
+  -Utilized JavaScript and Lodash, along with a proprietary abstraction layer to implement a comprehensive RESTful integration of multiple cloud services into our platform.  
+  -Leveraged my extensive knowledge of our platform and my comprehensive understanding of various cloud api’s to identify and correct bugs in legacy code. 
+
+ 
+ - Freelance Developer- Content Harmony- Seattle, WA, 2016</br>
+  -Utilized NW.js to build a desktop application for a freelance customer.
+  -Utilized HTML, CSS, and Bootstrap to create an interface to enter data and select files to upload.
+  -Employed Mammoth.js to convert Docx files to HTML files.
+  -Utilized JQuery and Node.js to compile data and HTML files into templates that are output as emails.
+
+
  - Owner- J Gerber LLC- Seattle, WA, 2008-Current</br>
   -Manage all operations from scheduling and billing to allocation of services.  
   -Continue to focus primarily on customer service as a product.  
