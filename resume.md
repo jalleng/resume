@@ -10,15 +10,15 @@ Seattle, WA </br>
 
 **PROFILE**
 
-I am a software developer whose main focus is full-stack JavaScript.  In eight years of running my own business I never lost a customer.  My goal is to integrate my past management, operations, and logistics experience with my knowledge of software development.
+I am a software developer whose main focus is full-stack JavaScript.  In nine years of running my own business I never lost a customer.  My goal is to integrate my past management, operations, and logistics experience with my knowledge of software development.
 
 **TECHNICAL SKILLS**
 
-Client - HTML5, CSS3, jQuery, Angular.js, Handlebars.js, lodash </br>
+Client - HTML5, CSS3, Angular.js, Handlebars.js, jQuery, lodash </br>
 Server - Node.js, Express.js </br>
-Database - MongoDB and MySQL </br>
+Database - MongoDB, MySQL, Amazon S3 </br>
 Testing - Mocha/Chai, Jasmine/Karma </br>
-DevOps - Heroku, TDD </br>
+DevOps - Heroku, Travis CI, Coveralls, TDD </br>
 Misc - Gulp, Github, Unix/linux, JSON
 
 **EDUCATION**
@@ -40,9 +40,6 @@ Misc - Gulp, Github, Unix/linux, JSON
 
 
 **EXPERIENCE**
-
-
-
 
  - Owner- J Gerber LLC- Seattle, WA, 2008-Current</br>
   -Manage all operations from scheduling and billing to allocation of services.  
