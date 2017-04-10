@@ -42,8 +42,8 @@ Misc - Gulp, Github, Unix/linux, JSON
 **EXPERIENCE**
 
 - Lead Teaching Assistant Full-Stack JavaScript- Code Fellows- Seattle, WA, 2015-Current</br>
-  -Provided assistance and logistical support to the lead instructor.  
-  -Provided instruction and feedback to students.
+  -Provide assistance and logistical support to the lead instructor.  
+  -Provide instruction and feedback to students.
 
 
  - Connector Developer- Azuqua- Seattle, WA, 2016-2017</br>
